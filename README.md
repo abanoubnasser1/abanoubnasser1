@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Undergraduate **Computer & Control Systems Engineer**
+- 🎓 **Computer & Control Systems Engineering** graduate — Class of **2024**, **Excellent with Honors**
 - 🎨 Also working as a **Brand Designer**, crafting logos, packaging & visual identities
 - 🚀 I like mixing **engineering logic** with **creative design**
 - 🌱 Currently leveling up in software development & building my portfolio
@@ -25,6 +25,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abanoubnasser_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/AbanoubNasser_)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/engabanoubnasser)
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Status |
+|---|---|
+| B.Sc. in **Computer & Control Systems Engineering** | 🎓 Graduated **2024** — **Excellent with Honors** |
 
 </div>
 
@@ -55,10 +67,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abanoubnasser1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoubnasser1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://readmestats.999857.xyz/api?username=abanoubnasser1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://readmestats.999857.xyz/api/top-langs/?username=abanoubnasser1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abanoubnasser1&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com/?user=abanoubnasser1&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
 </div>
 
