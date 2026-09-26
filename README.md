@@ -1,83 +1,83 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abanoub+Nasser+%F0%9F%91%8B;Control+Systems+Engineer;Brand+%26+Visual+Identity+Designer;Turning+Ideas+Into+Memorable+Brands" alt="Typing SVG" />
+# ABANOUB NASSER
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=150&section=header" width="100%"/>
+### Brand Designer
+
+*Turn your business into a Memorable Brand.*
 
 </div>
 
-```
-ABANOUB NASSER
-==================
-Computer & Control Systems Engineer | Brand & Visual Identity Designer
-Turning engineering logic into brands people actually remember.
+<br>
 
-I specialize in building full visual identity systems — logos, packaging,
-and brand guidelines — while keeping one foot in software & control
-systems engineering.
+---
 
-------------------
-Connect With Me
-» Email       → contact@abanoubnasser.com
-» Portfolio   → https://abanoubnasser.com
-» LinkedIn    → https://www.linkedin.com/in/abanoubnasser/
-» Behance     → https://www.behance.net/abanoubnasser
-» Instagram   → https://instagram.com/abanoubnasser_
-» X           → https://twitter.com/AbanoubNasser_
-» GitHub      → https://github.com/abanoubnasser1
+## About
 
-------------------
-Skills & Tools
-» Branding:      Logo Design, Visual Identity, Packaging, Brand Guidelines
-» Design Tools:  Figma, Adobe Illustrator, Adobe Photoshop
-» Engineering:   C, C++, Python, Control Systems
-» Web:           JavaScript, TypeScript, React, Next.js
-» Other:         Git, Version Control
+I'm Abanoub Nasser, a Brand Designer.
 
-------------------
-Featured Work
+My work focuses on branding, packaging and digital experiences — every project is driven by thoughtful research, strong typography and clean visual systems that leave a lasting impression.
 
-● Al Sultan Omar — Premium Honey
-  ✦ Full branding & packaging system for a premium honey label
-  ✦ Link: https://abanoubnasser.com/work/AlSultanOmar-PremiumHoney
+Also a graduate of **Computer & Control Systems Engineering** (2024, Excellent With Honors) — I like keeping one foot in engineering while building brands.
 
-● Q West — Cafe & Roastery
-  ✦ Brand identity & packaging for a specialty coffee roastery
-  ✦ Link: https://abanoubnasser.com/work/Q-West
+---
 
-● PAS — Architects
-  ✦ Visual identity system for an architecture studio
-  ✦ Link: https://abanoubnasser.com/work/PAS-Architects
+## Selected Work
 
-● Corelink — Technologies
-  ✦ Brand identity for a tech company
-  ✦ Link: https://abanoubnasser.com/work/Corelink-technologies
+| Project | Category |
+|---|---|
+| [Al Sultan Omar — Premium Honey](https://abanoubnasser.com/work/AlSultanOmar-PremiumHoney) | Branding · Packaging |
+| [Q West — Cafe & Roastery](https://abanoubnasser.com/work/Q-West) | Branding · Coffee · Packaging |
+| [PAS — Architects](https://abanoubnasser.com/work/PAS-Architects) | Branding · Architecture |
+| [Corelink — Technologies](https://abanoubnasser.com/work/Corelink-technologies) | Branding · Tech · Digital |
 
-------------------
-Education
-» B.Sc. Computer & Control Systems Engineering — Egypt
-» Graduated 2024 — Excellent With Honors
+[See full portfolio →](https://abanoubnasser.com)
 
-------------------
-Thanks for stopping by.
+---
 
-If you're working on branding, visual identity, or projects where
-engineering meets design — let's talk.
-```
+## How I Work
+
+01&nbsp;&nbsp;**Brief & Discovery** — understanding your business, audience, and goals
+02&nbsp;&nbsp;**Concept Development** — a strong direction grounded in your brand's personality
+03&nbsp;&nbsp;**Refinement** — shaping the chosen direction until every detail feels right
+04&nbsp;&nbsp;**Delivery & Guidelines** — a complete brand system, ready to use everywhere
+
+---
+
+## Skills & Tools
+
+Branding · Logo Design · Packaging · Visual Identity Systems · Typography
+
+Figma · Adobe Illustrator · Adobe Photoshop
+
+C · C++ · Python · Control Systems · JavaScript · TypeScript · React
+
+---
+
+## Connect
+
+Portfolio — [abanoubnasser.com](https://abanoubnasser.com)
+Email — [contact@abanoubnasser.com](mailto:contact@abanoubnasser.com)
+Behance — [behance.net/abanoubnasser](https://www.behance.net/abanoubnasser)
+Instagram — [instagram.com/abanoubnasser_](https://instagram.com/abanoubnasser_)
+WhatsApp — [wa.me/201094172845](https://wa.me/201094172845)
+LinkedIn — [linkedin.com/in/abanoubnasser](https://www.linkedin.com/in/abanoubnasser/)
+X — [@AbanoubNasser_](https://twitter.com/AbanoubNasser_)
+
+---
 
 <div align="center">
 
-### 📊 GitHub Stats
+<img height="165" src="https://readmestats.999857.xyz/api?username=abanoubnasser1&show_icons=true&hide_border=true&theme=default&bg_color=00000000&title_color=000000&text_color=333333&icon_color=555555" alt="GitHub Stats"/>
+<img height="165" src="https://readmestats.999857.xyz/api/top-langs/?username=abanoubnasser1&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=000000&text_color=333333"/>
 
-<img height="165" src="https://readmestats.999857.xyz/api?username=abanoubnasser1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://readmestats.999857.xyz/api/top-langs/?username=abanoubnasser1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=abanoubnasser1&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+---
 
-<br>
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abanoubnasser1&color=6C63FF&style=flat-square&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+*Designed & built by Abanoub Nasser*
+© 2026 Abanoub Nasser. All rights reserved.
 
 </div>
